@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/marvinli001/marvinli001/refs/heads/main/Typing%20SVG.svg" alt="Typing SVG" />
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -18,7 +18,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff69b4&sideLabels=ff69b4&border_radius=20" />
 </div>
 
----
+
 
 ## 🌟 Featured Projects
 
