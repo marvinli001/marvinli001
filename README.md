@@ -45,7 +45,7 @@
 -->
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff1493&sideLabels=ff69b4&border_radius=20" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff69b4&sideLabels=ff69b4&border_radius=20" />
 </div>
 
 ---
@@ -60,21 +60,3 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=marvinli001&repo=frpc-gui-client&theme=radical&title_color=ff69b4&text_color=ff69b4&bg_color=00000000&border_color=ff69b4&border_radius=15" />
   </a>
 </div>
-
----
-## 🎯 Philosophy
-
-<div align="center">
-
-```javascript
-const developer = {
-  vision: "Photography",
-  passion: "Code", 
-  mission: "Create",
-  
-  createMagic() {
-    return `${this.vision} + ${this.passion} = ${this.mission} ✨`;
-  }
-};
-
-console.log(developer.createMagic()); // Photography + Code = Create ✨
