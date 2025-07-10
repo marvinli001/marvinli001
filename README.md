@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Nian+Hoihan;📸+Photographer+%7C+💻+Developer;✨+Creating+digital+magic" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
