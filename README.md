@@ -23,11 +23,12 @@
 ## 📊 GitHub Stats
 
 <!-- 选项1: 可爱粉色渐变主题 -->
+<!--
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvinli001&show_icons=true&theme=radical&title_color=ff1493&icon_color=ff1493&text_color=ff1493&bg_color=00000000&border_color=ff69b4&border_radius=20" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinli001&layout=compact&theme=radical&title_color=ff1493&text_color=ff1493&bg_color=00000000&border_color=ff69b4&border_radius=20" />
 </div>
-
+-->
 <!-- 选项2: 彩虹渐变主题 -->
 <!-- 
 <div align="center">
@@ -37,12 +38,12 @@
 -->
 
 <!-- 选项3: 卡哇伊樱花主题 -->
-<!--
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvinli001&show_icons=true&theme=buefy&title_color=ff69b4&icon_color=ff1493&text_color=ff69b4&bg_color=00000000&border_color=ffb6c1&border_radius=25" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinli001&layout=compact&theme=buefy&title_color=ff69b4&text_color=ff69b4&bg_color=00000000&border_color=ffb6c1&border_radius=25" />
 </div>
--->
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff69b4&sideLabels=ff69b4&border_radius=20" />
