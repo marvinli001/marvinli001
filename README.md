@@ -1,16 +1,69 @@
-## Hi there 👋
+# 🌸 Welcome to My Digital World 🌸
 
-<!--
-**marvinli001/marvinli001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&size=22&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Nian+Hoihan;📸+Photographer+%7C+💻+Developer;✨+Creating+digital+magic" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marvinli001&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvinli001&layout=compact&theme=dracula&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=dracula&stroke=ff69b4&background=0d1117" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/marvinli001/pose-gallery">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marvinli001&repo=pose-gallery&theme=dracula&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/marvinli001/frpc-gui-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marvinli001&repo=frpc-gui-client&theme=dracula&title_color=ff69b4&text_color=9f9f9f&bg_color=0d1117" />
+  </a>
+</div>
+
+---
+
+## 🎯 Philosophy
+
+<div align="center">
+
+```javascript
+const developer = {
+  vision: "Photography",
+  passion: "Code", 
+  mission: "Create",
+  
+  createMagic() {
+    return `${this.vision} + ${this.passion} = ${this.mission} ✨`;
+  }
+};
+
+console.log(developer.createMagic()); // Photography + Code = Create ✨
+</div>
