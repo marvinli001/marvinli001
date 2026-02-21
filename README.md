@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff69b4&sideLabels=ff69b4&border_radius=20" />
+  <img src="https://streak-stats.demolab.com/?user=marvinli001&theme=radical&stroke=ff69b4&background=00000000&border=ff69b4&currStreakLabel=ff69b4&ring=ff1493&fire=ff69b4&sideLabels=ff69b4&border_radius=20" />
 </div>
 
 ## 🌟 Featured Projects
